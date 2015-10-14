@@ -1,0 +1,33 @@
+a:visited {
+    color: blue;
+}
+
+#app {
+    font-size: 18px;
+}
+
+#add-friend-btn {
+    margin-left: 3px;
+}
+
+#friend-name-field {
+    width: 150px;
+}
+
+.container{
+    font-family:Calibri, Helvetica, serif;
+    color:#444;
+    width:200px;
+    margin:100px auto 0;
+    padding:30px;
+    border:1px solid #ddd;
+    background:#f6f6f6;
+    -webkit-border-radius:4px;
+       -moz-border-radius:4px;
+            border-radius:4px;
+}
+ 
+h1, nav{
+    text-align:center;
+    margin:0 0 20px;
+}

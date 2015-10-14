@@ -1,0 +1,629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"startBtn"
+			],
+			[
+				"st",
+				"startBtn"
+			],
+			[
+				"sty",
+				"styleSelect"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"co",
+				"colorBlocks"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"getS",
+				"getSelectionText"
+			],
+			[
+				"get",
+				"getSelection"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"form",
+				"form-sources"
+			],
+			[
+				"show",
+				"showHtmlBtn"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"grou",
+				"groupsLength"
+			],
+			[
+				"discipline",
+				"discipline_name"
+			],
+			[
+				"stu",
+				"studentsLength"
+			],
+			[
+				"sco",
+				"scoresLength"
+			],
+			[
+				"sc",
+				"scoresLength"
+			],
+			[
+				"c",
+				"counter"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"mouse",
+				"mouseover"
+			],
+			[
+				"frame",
+				"frameset	Tag"
+			],
+			[
+				"edi",
+				"editFormView"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"add",
+				"addTaskFormView"
+			],
+			[
+				"taskCo",
+				"taskCollectionView"
+			],
+			[
+				"task",
+				"taskCollection"
+			],
+			[
+				"Task",
+				"TaskCollectionView"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Tas",
+				"TaskView"
+			],
+			[
+				"cha",
+				"changed"
+			],
+			[
+				"delete",
+				"deleteDiscipline"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"disci",
+				"disciplines"
+			],
+			[
+				"Discipline",
+				"DisciplinesCollection"
+			],
+			[
+				"name",
+				"nameVal"
+			],
+			[
+				"di",
+				"disciplineCollectionView"
+			],
+			[
+				"disc",
+				"disciplineName"
+			],
+			[
+				"teach",
+				"teacherView"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"new",
+				"newDiscipline"
+			],
+			[
+				"dele",
+				"delte-btn"
+			],
+			[
+				"teacher",
+				"teacherTemplate"
+			],
+			[
+				"te",
+				"teacherColection"
+			],
+			[
+				"set",
+				"setMan"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"g",
+				"getName"
+			],
+			[
+				"se",
+				"setAge"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"dis",
+				"discipline_id"
+			],
+			[
+				"d",
+				"discipline_id"
+			],
+			[
+				"f",
+				"first_name"
+			],
+			[
+				"j",
+				"student_discipline_journal"
+			],
+			[
+				"student",
+				"student_id"
+			],
+			[
+				"D",
+				"DISTINCT"
+			],
+			[
+				"t",
+				"term"
+			],
+			[
+				"l",
+				"last_name"
+			],
+			[
+				"studen",
+				"student_group"
+			],
+			[
+				"term",
+				"term_id"
+			],
+			[
+				"cl",
+				"classpath"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"re",
+				"refid"
+			],
+			[
+				"src",
+				"srcdir"
+			],
+			[
+				"ca",
+				"classpath"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"clas",
+				"classpath"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "Set Syntax: JS",
+		"selected_items":
+		[
+			[
+				"Set Syntax: JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"man",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rustam/projects/univer_labs/web_labs/js/2/css/style1.css",
+		"/home/rustam/projects/univer_labs/web_labs/js/2/css/style.css",
+		"/home/rustam/projects/univer_labs/web_labs/js/2/js/script.js",
+		"/home/rustam/projects/univer_labs/web_labs/js/2/index.html",
+		"/home/rustam/projects/univer_labs/web_labs/js/1/css/style.css",
+		"/home/rustam/projects/univer_labs/web_labs/js/1/js/script.js",
+		"/home/rustam/projects/univer_labs/web_labs/js/1/index.html",
+		"/home/rustam/programs/ides/idea-IU-141.1532.4/bin/idea.vmoptions",
+		"/home/rustam/projects/univer_labs/web_labs/css/3/css/style.css",
+		"/home/rustam/projects/univer_labs/web_labs/css/3/index.html",
+		"/home/rustam/projects/univer_labs/web_labs/css/2/css/style.css",
+		"/home/rustam/projects/univer_labs/web_labs/css/2/index.html",
+		"/home/rustam/projects/univer_labs/web_labs/css/1/css/style.css",
+		"/home/rustam/projects/univer_labs/web_labs/css/1/index.html",
+		"/home/rustam/projects/univer_labs/os_labs/lab2/task3/main.c",
+		"/home/rustam/projects/univer_labs/os_labs/lab2/task3/Makefile",
+		"/home/rustam/projects/univer_labs/os_labs/lab2/task3/univer.c",
+		"/home/rustam/projects/univer_labs/os_labs/lab2/task3/univer.h",
+		"/home/rustam/projects/univer_labs/os_labs/lab2/task2/helper.c",
+		"/home/rustam/projects/univer_labs/os_labs/lab2/task2/Makefile",
+		"/home/rustam/projects/univer_labs/os_labs/lab2/task2/main.c",
+		"/home/rustam/projects/univer_labs/os_labs/lab3/Makefile",
+		"/home/rustam/projects/univer_labs/os_labs/lab3/main.c",
+		"/home/rustam/projects/univer_labs/os_labs/lab3/helper.c",
+		"/home/rustam/projects/univer_labs/os_labs/lab2/task2/task2.c",
+		"/home/rustam/projects/univer_labs/os_labs/lab2/task2.c",
+		"/home/rustam/projects/language_spec.txt",
+		"/home/rustam/projects/temp/hello.py",
+		"/home/rustam/projects/--------- Наш универ -----------",
+		"/home/rustam/projects/backbone_tasker/script/router.js",
+		"/home/rustam/projects/backbone_tasker/script/models.js",
+		"/home/rustam/projects/backbone_tasker/script/main.js",
+		"/home/rustam/projects/backbone_tasker/script/collections.js",
+		"/home/rustam/projects/backbone_tasker/css/style.css",
+		"/home/rustam/projects/backbone_tasker/script/script.js",
+		"/home/rustam/projects/Backbone_sample/snippet.txt",
+		"/home/rustam/projects/backbone_tasker/script/views.js",
+		"/home/rustam/projects/backbone_tasker/index.html",
+		"/home/rustam/projects/web_labs/html/1/index_1.html",
+		"/home/rustam/projects/web_labs/html/1/index_2.html",
+		"/home/rustam/projects/web_labs/html/4/index_2.html",
+		"/home/rustam/projects/labs/5/task_3/menu.html",
+		"/home/rustam/projects/labs/5/task_3/index.html",
+		"/home/rustam/projects/labs/5/task_2/index.html",
+		"/home/rustam/projects/labs/5/task_1/main.html",
+		"/home/rustam/projects/labs/5/task_1/menu.html",
+		"/home/rustam/projects/labs/5/task_1/index.html",
+		"/home/rustam/projects/labs/4/index_2.html",
+		"/home/rustam/projects/labs/4/index_1_1.html",
+		"/home/rustam/projects/labs/4/index_1_2.html",
+		"/home/rustam/projects/labs/4/index_1_3.html",
+		"/home/rustam/projects/labs/4/index_1.html",
+		"/home/rustam/projects/labs/3/index_1.html",
+		"/home/rustam/projects/labs/3/index_2.html",
+		"/home/rustam/projects/labs/2/index_1.html",
+		"/home/rustam/projects/labs/1/index_2.html",
+		"/home/rustam/projects/labs/1/index_1.html",
+		"/home/rustam/Downloads/HTML/new 1.html",
+		"/home/rustam/projects/labs/1/index.html",
+		"/home/rustam/Downloads/HTML/lab5_task1.html",
+		"/home/rustam/projects/Backbone_sample/Untitled Folder/index.html",
+		"/home/rustam/projects/Backbone_sample/Untitled Folder/script/main.js",
+		"/home/rustam/projects/backbone_tasker/backbone_tasker/script/script.js",
+		"/home/rustam/projects/backbone_tasker/backbone_tasker/script/collections.js",
+		"/home/rustam/projects/backbone_tasker/backbone_tasker/script/models.js",
+		"/home/rustam/projects/backbone_tasker/backbone_tasker/script/views.js",
+		"/home/rustam/projects/backbone_tasker/backbone_tasker/script/router.js",
+		"/home/rustam/projects/backbone_tasker/backbone_tasker/index.html",
+		"/home/rustam/projects/backbone_tasker/backbone_tasker/script/main.js",
+		"/home/rustam/projects/Tasker/index.html",
+		"/home/rustam/projects/Backbone_sample/Tasker/script/models.js",
+		"/home/rustam/projects/Backbone_sample/Tasker/script/collections.js",
+		"/home/rustam/projects/Backbone_sample/Tasker/script/main.js",
+		"/home/rustam/projects/Backbone_sample/Tasker/script/views.js",
+		"/home/rustam/projects/Backbone_sample/Tasker/css/style.css",
+		"/home/rustam/projects/Backbone_sample/Tasker/script/script.js",
+		"/home/rustam/projects/Backbone_sample/Tasker/script/router.js",
+		"/home/rustam/projects/Backbone_sample/Tasker/index.html",
+		"/home/rustam/projects/Backbone_sample/Tasker/script/backbone.js",
+		"/home/rustam/projects/Backbone_sample/Untitled Folder/js/main.js",
+		"/home/rustam/projects/Backbone_sample/Untitled Folder/main.js",
+		"/home/rustam/projects/Backbone_sample/After_course/script/models.js",
+		"/home/rustam/projects/Backbone_sample/After_course/script/collections.js",
+		"/home/rustam/projects/Backbone_sample/After_course/script/views.js",
+		"/home/rustam/projects/Backbone_sample/After_course/script/router.js",
+		"/home/rustam/projects/Backbone_sample/After_course/script/main.js",
+		"/home/rustam/projects/Backbone_sample/After_course/index.html",
+		"/home/rustam/projects/Backbone_sample/After_course/css/style.css",
+		"/home/rustam/Downloads/123",
+		"/home/rustam/projects/nix/Lab20_Backbone/src/main/webapp/page/disciplines.html",
+		"/home/rustam/projects/nix/Lab20_Backbone/src/main/webapp/static/js/main.js",
+		"/home/rustam/projects/Backbone_sample/script/main.js",
+		"/home/rustam/projects/Backbone_sample/index.html",
+		"/home/rustam/projects/Backbone_sample/css/style.css",
+		"/home/rustam/projects/nix/Main.java",
+		"/home/rustam/Downloads/Modules_Ponts_for_course.txt",
+		"/home/rustam/projects/css/style.css",
+		"/home/rustam/.cache/.fr-flKl8Y/formfieldhints/index.html",
+		"/home/rustam/untitled",
+		"/home/rustam/projects/example_jsp/webtemplate/src/main/webapp/style/style.css",
+		"/home/rustam/Downloads/webtemplate/src/main/webapp/WEB-INF/jsp/contactus.jsp",
+		"/home/rustam/Downloads/webtemplate/src/main/webapp/WEB-INF/tags/general_template.tag",
+		"/home/rustam/programs/apache-tomcat-7.0.63/webapps/lab16_servlets/css/style.css",
+		"/home/rustam/projects/nix/Lab16_Servlet/sql/ddl.sql",
+		"/home/rustam/programs/apache-tomcat-7.0.63/conf/server.xml",
+		"/home/rustam/programs/apache-tomcat-7.0.63/logs/catalina.out",
+		"/home/rustam/programs/apache-tomcat-7.0.63/webapps/lab16_servlets/index.html",
+		"/home/rustam/programs/apache-tomcat-7.0.63/conf/tomcat-users.xml",
+		"/home/rustam/Documents/index.php",
+		"/home/rustam/projects/nix/Lab13_Maven/pom.xml",
+		"/home/rustam/projects/nix/Lab13_Maven/Lab3/pom.xml",
+		"/home/rustam/projects/nix/Lab13_Maven/Lab2/pom.xml",
+		"/home/rustam/projects/nix/Lab13_Maven/Lab1/pom.xml",
+		"/home/rustam/projects/nix/Lab12_Mock_and_Ant/build.xml",
+		"/home/rustam/projects/nix/Lab14_SQL/ddl.sql",
+		"/home/rustam/projects/nix/Lab14_SQL/extra.sql",
+		"/home/rustam/projects/nix/Lab14_SQL/select.sql",
+		"/home/rustam/projects/nix/Lab14_SQL/dml.sql",
+		"/home/rustam/programs/ides/idea-IU-141.1532.4/bin/idea64.vmoptions",
+		"/home/rustam/projects/nix/Lab13/pom.xml",
+		"/home/rustam/projects/nix/Lab13/Lab3/pom.xml",
+		"/home/rustam/projects/nix/Lab13/Lab2/pom.xml",
+		"/home/rustam/projects/nix/Lab13/Lab1/pom.xml",
+		"/home/rustam/Dropbox/MySQL/source.txt",
+		"/home/rustam/projects/nix/Lab12/build.xml",
+		"/home/rustam/projects/nix/build.xml",
+		"/home/rustam/projects/nix/buld.xml"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"></",
+			"btn-large",
+			"URL",
+			"Home",
+			");\n",
+			"Edit",
+			");\n",
+			"console",
+			"dic",
+			"'';\n",
+			");",
+			"js",
+			";\n",
+			": ",
+			"lex",
+			";",
+			"semestr",
+			">\n",
+			"}\"/>\n",
+			"\"/>\n",
+			"        \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "User.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
